@@ -1,6 +1,6 @@
 # Azure DevOps HOL
-0604 ㅎㅎㅎ
-[DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
+
+0604 행사에서 진행하는 Hands on Lab입니다.
 
 ## 사전 준비 사항
 
