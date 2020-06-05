@@ -1,6 +1,6 @@
 # Azure DevOps HOL
 
-0604 - v4 행사에서 진행하는 Hands on Lab입니다.
+0604 - v5 행사에서 진행하는 Hands on Lab입니다.
 
 ## 사전 준비 사항
 
